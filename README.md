@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align="left">
     <br/>
     <h2>About Me</h2>
-    <p>Hi, I am <a href="https://techiesandesh.com/" target="_blank">Sandesh Jangam</a>, a Full-Stack Developer 🚀 from India. Currently, I'm working as a Lead at <a href="https://techiesandesh.com/" target="_blank">ZipWP.com</a> & CartFlows. I build full-stack web apps using any of the following tech WordPress, Laravel, React, NextJs and Tailwind CSS</p>
+    <p>Hi, I am <a href="https://techiesandesh.com/" target="_blank">Sandesh Jangam</a>, a Full-Stack Developer 🚀 from India. Currently, I'm working as a Lead at <a href="https://zipwp.com/" target="_blank">ZipWP.com</a> & CartFlows. I build full-stack web apps using any of the following tech WordPress, Laravel, React, NextJs and Tailwind CSS</p>
     <p>Besides programming, I love to visit ancient temples and chilling at the beach.</p>
     <p>Need some pro developer help? Let's connect..!</p>
 </div>
